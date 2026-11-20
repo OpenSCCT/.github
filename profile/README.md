@@ -1,3 +1,5 @@
+<img align="right" src="https://raw.githubusercontent.com/OpenSCCT/OpenSCCT/main/game/branding/icon.png" width="80" alt="OpenSCCT">
+
 # OpenSCCT
 
 Community projects for **Tom Clancy’s Splinter Cell Chaos Theory**. Start with the
